@@ -1,0 +1,6 @@
+{
+    "main": "TemplateName.lazy.js",
+    "scripts": {
+        "test": "jest"
+    }
+}
